@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\src\cLbx30\Lbx30\Lbx30\Main.cpp(8,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\src\cLbx30\Lbx30\Lbx30\Main.cpp(8,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+D:\src\cLbx30\Lbx30\Lbx30\Main.cpp(8,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+  Lbx30.vcxproj -> D:\src\cLbx30\Lbx30\Debug\Lbx30.exe

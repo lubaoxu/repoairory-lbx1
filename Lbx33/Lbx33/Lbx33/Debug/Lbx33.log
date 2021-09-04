@@ -1,0 +1,10 @@
+﻿  Main.cpp
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(5,31): warning C4305: “初始化”: 从“__int64”到“unsigned int”截断
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(5,20): warning C4309: “初始化”: 截断常量值
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(10,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(10,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(10,10): message : 缺失的可变参数 1 为格式字符串“%u”所需
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(13,10): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“__int64”
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(13,10): message : 请考虑在格式字符串中使用“%lld”
+D:\src\cLbx33\Lbx33\Lbx33\Main.cpp(13,10): message : 请考虑在格式字符串中使用“%I64d”
+  Lbx33.vcxproj -> D:\src\cLbx33\Lbx33\Debug\Lbx33.exe

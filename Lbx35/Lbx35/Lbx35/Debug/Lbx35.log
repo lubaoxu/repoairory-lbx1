@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\src\c\Lbx35\Lbx35\Lbx35\Main.cpp(11,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 2 拥有了类型“__int64”
+D:\src\c\Lbx35\Lbx35\Lbx35\Main.cpp(11,9): message : 请考虑在格式字符串中使用“%lld”
+D:\src\c\Lbx35\Lbx35\Lbx35\Main.cpp(11,9): message : 请考虑在格式字符串中使用“%I64d”
+  Lbx35.vcxproj -> D:\src\c\Lbx35\Lbx35\Debug\Lbx35.exe

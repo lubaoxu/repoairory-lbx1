@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\src\c\Lbx42\Lbx42\Lbx42\Main.cpp(7,8): warning C4101: “weight”: 未引用的局部变量
+D:\src\c\Lbx42\Lbx42\Lbx42\Main.cpp(7,16): warning C4101: “volume”: 未引用的局部变量
+D:\src\c\Lbx42\Lbx42\Lbx42\Main.cpp(8,12): warning C4101: “letters”: 未引用的局部变量
+D:\src\c\Lbx42\Lbx42\Lbx42\Main.cpp(8,6): warning C4101: “size”: 未引用的局部变量
+  Lbx42.vcxproj -> D:\src\c\Lbx42\Lbx42\Debug\Lbx42.exe

@@ -1,0 +1,9 @@
+﻿  Main.cpp
+D:\src\c\Lbx36\Lbx36\Lbx36\Main.cpp(6,7): warning C4091: “”: 没有声明变量时忽略“char”的左侧
+D:\src\c\Lbx36\Lbx36\Lbx36\Main.cpp(8,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\src\c\Lbx36\Lbx36\Lbx36\Main.cpp(8,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+D:\src\c\Lbx36\Lbx36\Lbx36\Main.cpp(8,9): message : 缺失的可变参数 1 为格式字符串“%c”所需
+D:\src\c\Lbx36\Lbx36\Lbx36\Main.cpp(9,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\src\c\Lbx36\Lbx36\Lbx36\Main.cpp(9,9): message : 占位符和其参数预计 2 可变参数，但提供的却是 0 参数
+D:\src\c\Lbx36\Lbx36\Lbx36\Main.cpp(9,9): message : 缺失的可变参数 1 为格式字符串“%c”所需
+  Lbx36.vcxproj -> D:\src\c\Lbx36\Lbx36\Debug\Lbx36.exe

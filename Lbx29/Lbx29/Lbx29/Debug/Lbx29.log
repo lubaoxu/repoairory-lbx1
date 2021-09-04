@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\src\cLbx29\Lbx29\Lbx29\Main.cpp(6,8): warning C4101: “value”: 未引用的局部变量
+D:\src\cLbx29\Lbx29\Lbx29\Main.cpp(5,8): warning C4101: “weight”: 未引用的局部变量
+  Lbx29.vcxproj -> D:\src\cLbx29\Lbx29\Debug\Lbx29.exe
